@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "react-countup": "^6.5.3",
+    "react-icons": "^5.7.0",
+    "react-intersection-observer": "^11.0.1",
+    "react-parallax-tilt": "^1.7.342",
+    "react-type-animation": "^3.2.0"
+  }
+}
